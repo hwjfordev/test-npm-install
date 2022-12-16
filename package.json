@@ -1,0 +1,11 @@
+{
+  "name": "@hwjfordev/test-npm-install",
+  "version": "1.0.0",
+  "description": "Server app that uses the <organization_name>/<package_name> package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "<organization_name>/<package_name>": "1.0.0"
+  }
+}
